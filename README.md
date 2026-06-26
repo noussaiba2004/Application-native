@@ -1,5 +1,4 @@
-# To-Do List Application (Android Native) — Groupe 9
-
+# To-Do List Application (Android Native) 
 ## 📝 Présentation du Projet
 Ce projet consiste en une application mobile native Android de gestion de tâches unitaire (« To-Do List »). Développée de manière modulaire, elle permet à l'utilisateur de lister, d'ajouter et de supprimer des tâches quotidiennes de façon fluide et intuitive.
 
